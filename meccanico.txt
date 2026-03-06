@@ -3,3 +3,15 @@ feature 2 // yaro
 feature 3 // yaro
 feature 4 // yaro
 feature 5 // yaro
+Azioni che fa un meccanico //cassibba
+1) Misura la pressione delle gomme //cassibba
+2) Controlla l'olio della macchina //cassibba
+3) E' sempre arrabbiato con chi non ne capisce di macchine //cassibba
+4. Controllare l'acqua // fanelli
+5. Cambiare le ruote  // fanelli
+6) Controlla la centralina //cassibba
+7)feature 3 // yaro
+8)feature 4 // yaro
+Filtro carburante  //federica
+Frizione  //federica
+Impianto climatizzatore  //federica
