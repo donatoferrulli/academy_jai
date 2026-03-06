@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sveglia
 mi lavo
 mi vesto
@@ -6,4 +7,24 @@ preparazione zaino
 uscire di casa
 prendere il mezzo pubblico
 scendere dal mezzo pubblico
+=======
+1) mi sveglio
+2) mi alzo
+3) mi lavo i denti
+4) faccio colazione
+5) mi lavo
+6) mi vesto
+7) mi metto le scarpe
+8) prendo il treno
+9) vado al famila a prendere da mangiare
+10) prendo la macchina sveglia
+colazione
+preparazione pranzo
+doccia
+vestire
+preparazione zaino
+esci
+prendere la circolare
+scendere alla fermata
+>>>>>>> 5cda3aca11e40bfd01d4187917de2331438d58eb
 entrare in azienda con badge
