@@ -1,14 +1,11 @@
-<<<<<<< HEAD
-- Valuta lo stato di denti e gengive.
-- Rimuove la placca e il tartaro sopra e sotto gengiva.
+1) far sedere il cliente
+2) mettere il bavaglino al cliente
 - Esegue la detartrasi con strumenti manuali o ultrasuoni.
 - Lucida i denti per eliminare macchie superficiali.
 - Controlla eventuali segni di carie.
-=======
 6. Pulisce gli strumenti del lavoro
 7. Attiva gli strumenti
 8. Inizia a pulire, partendo dagli incisivi del paziente
 9. Quando arriva all'ultimo molare, termina la pulizia
 10. Fa sistemare il paziente
-11. Fa pagare il paziente e lo saluta
->>>>>>> feature/dentistaRoberto
+
