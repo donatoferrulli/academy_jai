@@ -1,0 +1,10 @@
+1) far sedere il cliente
+2) mettere il bavaglino al cliente
+3) scegliere lo strumento
+4) far aprire la bocca al cliente
+5) scegliere la zona orale da lavorare
+6) scegliere lo strumento adatto
+7) inizio della pulizia nella zona
+8) cambiare zona da pulire
+9) rimozione degli strumenti dalla bocca del paziente
+10) cliente paga
