@@ -7,4 +7,6 @@ Azioni che fa un meccanico //cassibba
 6) Controlla la centralina //cassibba
 7)feature 3 // yaro
 8)feature 4 // yaro
-
+Filtro carburante  //federica
+Frizione  //federica
+Impianto climatizzatore  //federica
