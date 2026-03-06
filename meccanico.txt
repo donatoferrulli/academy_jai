@@ -1,0 +1,7 @@
+Azioni che fa un meccanico
+1) Misura la pressione delle gomme
+2) Controlla l'olio della macchina
+3) E' sempre arrabbiato con chi non ne capisce di macchine
+4) Si mette sotto la macchina per riparare cose
+5) Ripara il paraurti
+6) Controlla la centralina
