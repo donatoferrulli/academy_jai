@@ -1,0 +1,11 @@
+1. Accoglie il paziente
+2. Fa stendere il paziente
+3. Fornisce al paziente un bicchiere con acqua e colluttorio con cui pulire la bocca
+4. Mette una tovaglietta al paziente per evitare che si sporchi il suo vestito
+5. Chiede all'assistente di inserire l'aspiratore nella bocca del paziente
+6. Pulisce gli strumenti del lavoro
+7. Attiva gli strumenti
+8. Inizia a pulire, partendo dagli incisivi del paziente
+9. Quando arriva all'ultimo molare, termina la pulizia
+10. Fa sistemare il paziente
+11. Fa pagare il paziente e lo saluta
