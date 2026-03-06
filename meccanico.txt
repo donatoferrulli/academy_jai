@@ -1,10 +1,10 @@
-Azioni che fa un meccanico
-1) Misura la pressione delle gomme
-2) Controlla l'olio della macchina
-3) E' sempre arrabbiato con chi non ne capisce di macchine
-4) Si mette sotto la macchina per riparare cose
-5) Ripara il paraurti
-6) Controlla la centralina
+Azioni che fa un meccanico //cassibba
+1) Misura la pressione delle gomme //cassibba
+2) Controlla l'olio della macchina //cassibba
+3) E' sempre arrabbiato con chi non ne capisce di macchine //cassibba
+4. Controllare l'acqua // fanelli
+5. Cambiare le ruote  // fanelli
+6) Controlla la centralina //cassibba
 7)feature 3 // yaro
 8)feature 4 // yaro
 
